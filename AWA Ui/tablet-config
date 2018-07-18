@@ -1,0 +1,12 @@
+{
+	"types": [
+		"AZV leicht",
+		"AZV schwer",
+		"BMA leicht",
+		"BMA schwer",
+		"Holz",
+		"Papier",
+		"Bunker"
+	],
+	"showDevice": false
+}
